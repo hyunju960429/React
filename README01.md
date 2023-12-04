@@ -29,7 +29,8 @@ npm -v
 ```
 npx -v
 ```
-![image](https://github.com/hyunju960429/node.js-connect/assets/145514544/4f0cd712-b063-429e-9ec9-6e8c89785991)
+![image](https://github.com/hyunju960429/node.js-connect/assets/145514544/9bc5285a-0656-4d58-8efa-82a567ffaa1b)
+
 
 *npm --> 외부라이브러리를 쉽게 설치하고 버전을 관리 할 수 있게 한다 --> package.json을 만들게 된다
 *npx --> 라이브러리를 개별적으로 실행하고자 할때 사용하는것임
