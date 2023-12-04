@@ -18,3 +18,17 @@
 
 ![image](https://github.com/hyunju960429/node.js-connect/assets/145514544/0445efcb-9047-4a8e-be42-ac8fb802d7f7)
 
+4. node.js를 설치하면 npm이 자동 설치된다
+```
+npm -v
+```
+
+![image](https://github.com/hyunju960429/node.js-connect/assets/145514544/0445efcb-9047-4a8e-be42-ac8fb802d7f7)
+* npx는 npm이 설치될때 함께 설치가 된다
+```
+npx -v
+```
+![image](https://github.com/hyunju960429/node.js-connect/assets/145514544/4f0cd712-b063-429e-9ec9-6e8c89785991)
+
+*npm --> 외부라이브러리를 쉽게 설치하고 버전을 관리 할 수 있게 한다 --> package.json을 만들게 된다
+*npx --> 라이브러리를 개별적으로 실행하고자 할때 사용하는것임
