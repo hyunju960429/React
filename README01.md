@@ -6,11 +6,15 @@
 
 
 1. node.js 파일 다운받기,설치
+   
 ![image](https://github.com/hyunju960429/node.js-connect/assets/145514544/6d68169f-35d2-409c-aa80-8833059df209)
+
 2. cmd 오픈(관리자권한으로 실행 권장)
 3. cmd 화면에서
    ```
    node -v
    ```
 를 입력하면 아래와 같이 버전이 나오면 설치 완료된것이다.
+
 ![image](https://github.com/hyunju960429/node.js-connect/assets/145514544/0445efcb-9047-4a8e-be42-ac8fb802d7f7)
+
