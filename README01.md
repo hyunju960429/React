@@ -23,7 +23,8 @@
 npm -v
 ```
 
-![image](https://github.com/hyunju960429/node.js-connect/assets/145514544/0445efcb-9047-4a8e-be42-ac8fb802d7f7)
+![image](https://github.com/hyunju960429/node.js-connect/assets/145514544/053a40a7-c31d-4a6f-a8ee-4e55dc81b07c)
+
 * npx는 npm이 설치될때 함께 설치가 된다
 ```
 npx -v
