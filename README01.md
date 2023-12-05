@@ -70,7 +70,8 @@ npm start
 
 
 
-- react의 코드정렬⬇️
 ![image](https://github.com/hyunju960429/React/assets/145514544/4ca03b92-bb90-4e97-977c-11f2afcc1d87)
+- react의 코드정렬⬇️
+
 
 
