@@ -64,7 +64,11 @@ npm start
 - 페이지는 하나인데 여러 페이지인것처럼 눈속임을 한다. 페이지가 여러개인것처럼 보이지만 사실은 하나의 페이지다. => 첫로딩시간이 길지만 그 이후 로딩시간이 짧음.
 - 페이지를 매번 새로 가져올 필요가 없음, 웹사이트를 모바일처럼 사용할 수 있음.
 
-# REACT 확장프로그램 -> VS code에서 install⬇️
+# REACT 확장프로그램 -> VS code에서 install⬇⏬
+- react 기본구조 만들기⬇️
 ![image](https://github.com/hyunju960429/React/assets/145514544/69d9bdf5-1d55-413d-a75d-4f9e167ac83b)
+
+- react의 코드정렬⬇️
+![image](https://github.com/hyunju960429/React/assets/145514544/4ca03b92-bb90-4e97-977c-11f2afcc1d87)
 
 
