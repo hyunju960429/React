@@ -79,7 +79,9 @@ npm start
 # format save 설정하기
 ![image](https://github.com/hyunju960429/React/assets/145514544/a6ebe10d-e1e0-422e-b500-b12e8dfb3475)
 
-![image](https://github.com/hyunju960429/React/assets/145514544/4af2370e-c67c-4ede-b76a-3d51398d3f38)
+![image](https://github.com/hyunju960429/React/assets/145514544/e2bdee24-4aac-4523-8dfb-a1bbc35150ab)
+
+
 
 
 
