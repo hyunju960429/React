@@ -66,12 +66,18 @@ npm start
 
 # REACT 확장프로그램 -> VS code에서 install⬇⏬
 - react 기본구조 만들기⬇️
+  
 ![image](https://github.com/hyunju960429/React/assets/145514544/69d9bdf5-1d55-413d-a75d-4f9e167ac83b)
 
 
 
 ![image](https://github.com/hyunju960429/React/assets/145514544/4ca03b92-bb90-4e97-977c-11f2afcc1d87)
-- react의 코드정렬⬇️
+
+- react의 코드정렬⬇⤴️
+
+
+# format save 설정하기
+![image](https://github.com/hyunju960429/React/assets/145514544/a6ebe10d-e1e0-422e-b500-b12e8dfb3475)
 
 
 
