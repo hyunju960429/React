@@ -35,3 +35,45 @@ function App() {
 export default App;
 
 ```
+
+
+
+
+```
+
+import "./App.css";
+
+function App() {
+  const name = "강아지";
+  const list = ["기침", "감기", "약"];
+  return (
+    <>
+      <h1 className="dog">{name}와 고양이</h1>
+      <h1 className="dog">{`${name}와 고양이`}</h1>
+      <ul>
+        <li>기침</li>
+        <li>감기</li>
+        <li>약</li>
+      </ul>
+      <ul>
+        {/*  {list.map((item) => {
+          return <li>{item}</li>;
+        })} */}
+
+        {list.map((item) => (
+          <li>{item}</li>
+        ))}
+      </ul>
+      <img
+        style={{ width: "300px", height: "300px" }}
+        src="https://i.namu.wiki/i/Cc3aQXqE8rc2nIRt70WPVeaezoBc-MDexWhGkBRVvY7IjyKyNntBgyP11sMgbI4BFxOzoUmUOpihnofQBWJwsw.webp"
+        alt="이미지"
+      ></img>
+    </>
+  );
+}
+
+export default App;
+
+
+```
