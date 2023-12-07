@@ -12,3 +12,26 @@ https://react.dev/learn#writing-markup-with-jsx
 - {}을 사용하지 않으면 변수가 그냥 문자로 출력된다.
 - 인라인스타일로 css를 작성할때 --> 밖의 {}는 자바스크립트를 사용한다는 의미, 안의 {}는 객체를 사용한다는 의미
 - <div style={{ width: "300px", height: "200px" }}>추가하기</div>
+![image](https://github.com/hyunju960429/React/assets/145514544/fab1eea8-580f-480f-aeb7-18b344d1d5f3)
+
+
+
+```
+
+import "./App.css";
+
+function App() {
+  const name = "강아지";
+  return (
+    <>
+      <div className="App">
+        <p>{`${name}시작하기`}</p>
+      </div>
+      <div style={{ width: "300px", height: "200px" }}>추가하기</div>
+    </>
+  );
+}
+
+export default App;
+
+```
