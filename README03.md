@@ -29,3 +29,11 @@ react에서 emmet 적용하기[자동태그완성]
 ````````````````````
 
 #기본 다시해보기
+
+![image](https://github.com/hyunju960429/React/assets/145514544/1fb1bfdf-6d62-41b1-9ef8-c62e7faa7ac2)
+
+![image](https://github.com/hyunju960429/React/assets/145514544/219a7f2b-6f6a-490c-b265-cb748526d837)
+
+![image](https://github.com/hyunju960429/React/assets/145514544/77289a87-5786-4c3e-be2c-0dcd93127cb7)
+
+
