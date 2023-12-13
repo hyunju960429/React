@@ -7,3 +7,8 @@ const [num, setNum] = useState(0)
 num을 변하게 하는 함수 ==> setNum --> 함수를 이용하여 num을 변경한다.
 useState(0)의 0은 num의 초기값
 ```
+
+
+
+
+![image](https://github.com/hyunju960429/React/assets/145514544/aabf98f8-9f9e-43fa-8b32-360ecc4e300b)
