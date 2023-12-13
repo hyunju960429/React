@@ -16,6 +16,8 @@ useState(0)의 0은 num의 초기값
 
 
 
+# 🍎구조분해
+
 ```
 import React from "react";
 
