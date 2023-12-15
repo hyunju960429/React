@@ -8,7 +8,8 @@
 
 ![image](https://github.com/hyunju960429/React/assets/145514544/38479ed5-d990-489e-b911-dc749f5ef8c6)
 
-![image](https://github.com/hyunju960429/React/assets/145514544/a2190b72-1eeb-4710-b6af-87e79e58c5c2)
+![image](https://github.com/hyunju960429/React/assets/145514544/ba0082ef-f6a0-4506-aa30-05ef0524065b)
+
 
 ![image](https://github.com/hyunju960429/React/assets/145514544/44c456ee-2b2d-41c5-bed3-c9cb0e0c21c0)
 
