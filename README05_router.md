@@ -27,3 +27,10 @@
 ![image](https://github.com/hyunju960429/React/assets/145514544/1d658101-60bd-4ecb-8dad-7a7e8fd6c6ed)
 
 ![image](https://github.com/hyunju960429/React/assets/145514544/4d2162f6-af30-4244-a883-de7b4ab1aec0)
+
+
+
+
+--------------------
+
+# 🍇 버튼을 클릭해서 페이지로 갈때(함수 안에서 사용하는 방법)
