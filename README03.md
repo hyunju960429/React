@@ -12,9 +12,10 @@ react에서 emmet 적용하기[자동태그완성]
 ![image](https://github.com/hyunju960429/React/assets/145514544/9a825bc0-b994-4c4d-b748-f7a87f4c8a00)
 
 ```
-"emmet.excludeLanguages": { "javascript": "javascriptreact" }
+"emmet.includeLanguages": { "javascript": "javascriptreact" }
 ```
 
+exclude 아님xxxxxxxxx
 
 ---------------------------
 
