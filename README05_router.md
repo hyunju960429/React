@@ -2,7 +2,11 @@
 
 공식 사이트 주소 https://reactrouter.com/en/main/start/tutorial
 
-1) 설치하기 -- npm install react-router-dom
+# 1) 설치하기 -- npm install react-router-dom
+
+# BrowserRoutersms react 전체를 감싸주어야한다.
+![image](https://github.com/hyunju960429/React/assets/145514544/4c127972-9424-476e-879c-a8eca839387c)
+
 
 ![image](https://github.com/hyunju960429/React/assets/145514544/288463fd-4a80-47bc-9814-ded10f3bd1aa)
 
