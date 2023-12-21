@@ -1,3 +1,4 @@
+# 폴더 src4 참조
 
 # useEffect
 
@@ -13,3 +14,4 @@
 
 # useEffect()가 종료되는 시점에 데이터가 변경된다.
 ![image](https://github.com/hyunju960429/React/assets/145514544/5220fe42-4495-4226-b425-e29ee19af715)
+
