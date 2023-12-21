@@ -10,3 +10,6 @@
 ![image](https://github.com/hyunju960429/React/assets/145514544/313e8b55-fee2-4c7e-bcc4-3c90c3069142)
 
 # useEffect(()=>{},[products, count]) ==> component가 실행될때 처음 한번 실행된 후 products와 count 둘중의 하나라도 값이 바뀔때마다 useEffect가 실행된다. (두개 다 바뀌어도 한번만 실행된다.)
+
+# useEffect()가 종료되는 시점에 데이터가 변경된다.
+![image](https://github.com/hyunju960429/React/assets/145514544/5220fe42-4495-4226-b425-e29ee19af715)
