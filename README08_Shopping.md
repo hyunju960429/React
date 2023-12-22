@@ -8,6 +8,8 @@ https://reactrouter.com/en/main/start/tutorial#setup 참조사이트
 npm install react-router-dom
 ```
 
+
+```
 # RESTful --> Representaiton State Transfer의 약자
 # RESTful Routes는 url 패턴을 말한다.
  * get : 데이터를 가져올때 사용하는 패턴
@@ -21,7 +23,7 @@ npm install react-router-dom
 /subjects/:id 방법을 사용하자
 => 이것은 파라미터라는 뜻 --> url로 파라미터값을 넘긴다.
  /subjects는 고정적인 값이나 :id는 가변적인 값이다 --> 어떤 임의의 값을 만들어서 개별 아이템으로 넘길 수 있다.
-
+```
 
 
 2️⃣ index.js에 BrowserRouter 실행
