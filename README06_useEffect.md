@@ -19,6 +19,8 @@
 
 
 
+# 이전값 prev⬇️
+
 ```
 import { useState } from "react";
 import "./App.css";
