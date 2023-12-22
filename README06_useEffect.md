@@ -20,6 +20,7 @@
 
 
 # 이전값 prev⬇️
+setNum((이전값) => 이전값 + 1)
 
 ```
 import { useState } from "react";
@@ -63,9 +64,6 @@ function App() {
           1씩증가
         </button>
 
-        <form action="#">
-          <input type="text" />
-        </form>
       </div>
     </>
   );
