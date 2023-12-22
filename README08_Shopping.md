@@ -8,6 +8,7 @@ https://reactrouter.com/en/main/start/tutorial#setup 참조사이트
 npm install react-router-dom
 ```
 
+![image](https://github.com/hyunju960429/React/assets/145514544/5d734217-f0ec-41fd-a39e-dc6cfc73c8a0)
 
 ```
 # RESTful --> Representaiton State Transfer의 약자
@@ -17,7 +18,6 @@ npm install react-router-dom
  * put : 기존 데이터를 수정할때 사용하는 패턴
  * delete : 데이터를 삭제할때 사용하는 패턴
 
-![image](https://github.com/hyunju960429/React/assets/145514544/5d734217-f0ec-41fd-a39e-dc6cfc73c8a0)
 
 🍌 내가 선택한 상품의 상세페이지로 이동하고자 한다면
 /subjects/:id 방법을 사용하자
