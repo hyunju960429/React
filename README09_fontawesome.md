@@ -24,3 +24,6 @@ npm i --save @fortawesome/free-solid-svg-icons
 npm i --save @fortawesome/free-regular-svg-icons
 npm i --save @fortawesome/free-brands-svg-icons
 ```
+
+
+![image](https://github.com/hyunju960429/React/assets/145514544/4b35f933-9f20-4633-b614-72dfe0f285e9)
