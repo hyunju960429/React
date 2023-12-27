@@ -37,3 +37,6 @@ npx json-server --watch db.json --port 3004
 ![image](https://github.com/hyunju960429/React/assets/145514544/7c9ed0d7-d5af-4054-a29d-1a304ffa544c)
 
 이렇게 json 파일의 내용이 보이게 된다.
+
+
+
