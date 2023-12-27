@@ -22,5 +22,5 @@ npm install -g json-server
 3️⃣ json서버 실행 --> 기본적으로 3000번에서 시작하는데 react가 3000번을 사용하고 있기 때문에 다른 포트번호를 알려줘야한다.
 
 ```
-$ json-server --watch db.json --port 3004
+json-server --watch db.json --port 3004
 ```
