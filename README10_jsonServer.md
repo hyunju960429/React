@@ -24,3 +24,16 @@ npm install -g json-server
 ```
 json-server --watch db.json --port 3004
 ```
+
+# 혹시 안되면
+
+```
+npx json-server --watch db.json --port 3004
+```
+
+
+새창을 열고 주소창에 http://localhost:3004/products 경로입력하면
+
+![image](https://github.com/hyunju960429/React/assets/145514544/7c9ed0d7-d5af-4054-a29d-1a304ffa544c)
+
+이렇게 json 파일의 내용이 보이게 된다.
