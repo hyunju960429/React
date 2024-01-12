@@ -29,3 +29,4 @@ http://localhost:3004/products/1
 
 product가 있으면 product.img를 출력하라
 ![image](https://github.com/hyunju960429/React/assets/145514544/87b2708e-7b1e-449d-8d0e-2bde48008f2c)
+
