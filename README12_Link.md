@@ -30,3 +30,10 @@ http://localhost:3004/products/1
 product가 있으면 product.img를 출력하라
 ![image](https://github.com/hyunju960429/React/assets/145514544/87b2708e-7b1e-449d-8d0e-2bde48008f2c)
 
+
+# 🍊  퀴리 스트링
+
+```
+쿼리스트링(query string)은 웹 주소(URL)에 추가적인 매개변수를 전달하는 방법 중 하나입니다.
+쿼리스트링은 URL의 끝에 "?" 문자로 시작하며, 이후에 "이름=값" 형태의 매개변수들이 "&" 문자로 구분되어 나열됩니다.
+```
